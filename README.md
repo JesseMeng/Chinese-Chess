@@ -1,1 +1,2 @@
 # Chinese-Chess
+In this project, I tried to implement the classic game of Chinese Chess using java. I've used sockets to establish the server and the clients. The different players on the server could challenge each other into a game. Chinese chess is like chess, which contains a lot of strategies and games could potentially become very competitive. Nevertheless, this is a nice game to play with friends at leisure. In the future, I hope to develop online, instead of local servers, which can allow players to face each other, without having to use the same machine.
